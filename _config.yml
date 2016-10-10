@@ -71,8 +71,3 @@ deploy:
   type: heroku
   repo: https://git.heroku.com/astar-blog.git
 
-# Admin
-admin:
-  username: lucas
-  password_hash: $2a$08$Qdw3JCrvKApeAaA1Mb54buoDbdzdKLGP2smTMv6CMiUpFidrjvaRO
-  secret: a secret something
