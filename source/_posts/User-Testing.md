@@ -5,7 +5,7 @@ tags:
 ---
 Okay, time for a good old fashioned showdown!  I went for a run today with my $450 Garmin Forerunner 920xt and my phone running ASTAR.  
 
-![](/img/selfie.jpg)
+<img src="/img/selfie.jpg" width="500"/>
 
 How closely would they agree?  Would ASTAR be all over the place?  Let's see the results!
 
